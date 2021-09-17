@@ -294,6 +294,43 @@ text-align: left;
     
 }
 
+.form .inputBx {
+    margin-bottom: 40px; 
+}
+
+
+.form .inputBx input {
+   width: 100%;
+   background: transparent;
+   box-shadow: none;
+   border: none;
+   outline: none;
+   padding: 10px 0;
+   font-size: 18px;
+   font-weight: 300;
+   color: #fff;
+   border-bottom: 2px solid #fff;
+{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
 
 
 
