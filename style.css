@@ -285,3 +285,20 @@ text-align: left;
     background-position: center;
     width: 50%;
 }
+
+
+.redbg{
+    background: url(assets/red.jpg) !important;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+
+
+
+
+
+
+
