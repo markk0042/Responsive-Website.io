@@ -387,7 +387,21 @@ max-width: 20px;
 }
 
 
+@media (max-width: 991px)
+{
 
+ .banner header 
+ {
+
+    padding: 20px 50px;
+ }
+
+ .banner .content h2 
+ {
+    
+ }
+
+}
 
 
 
