@@ -328,6 +328,7 @@ color: #fff;
    font-size: 18px;
    font-weight: 300;
    color: #fff;
+   min-height: 150px;
    border-bottom: 2px solid #fff;
 }
 
