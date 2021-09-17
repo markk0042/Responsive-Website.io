@@ -328,9 +328,9 @@ color: #fff;
    font-size: 18px;
    font-weight: 300;
    color: #fff;
-   min-height: 150px;
    border-bottom: 2px solid #fff;
 }
+
 .form .inputBx textarea::placeholder {
 
 color: #fff;
@@ -344,26 +344,11 @@ color: #fff;
     background: #fff;
     color: #111;
     cursor:pointer;
-    font-weight: 400;
+    font-weight: 400p
 }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
 
 
 
