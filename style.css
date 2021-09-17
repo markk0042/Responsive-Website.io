@@ -269,7 +269,19 @@ text-align: left;
     text-align: end;
     font-weight: 500;
     color: #3f8ffc;
+}
 
+.contact{
 
+    padding: 100px;
+    background: #162c3b;
+    text-align: center;
+}
 
+.imgBx2 {
+
+    background: url(assets/bg2.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
 }
