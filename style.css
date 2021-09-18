@@ -183,8 +183,9 @@ max-width: 100px;
     background: #3f8ffc;
     width: 100%;
     padding: 100px;
-    padding-top: 300px;
-    margin-top: 300px;
+    padding-top: 150pxpx;
+    margin-top: 10px;
+    margin-bottom: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -516,8 +517,8 @@ margin-bottom: 40px;
 .testimonials .contentBx:last-chid
 
 {
-margin-bottom: 0px;
 
+margin-bottom: 0px;
 
 }
 
